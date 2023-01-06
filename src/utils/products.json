@@ -1,0 +1,236 @@
+{
+    "shoes": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Bocanci cu șireturi 'Jadon' Dr. Martens",
+                "price": 755,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/2SPWxcC/temp-Image-IYt-Fl-I.jpg",
+                "size": 38,
+                "colour": "Alb",
+                "material": "Piele",
+                "brand": "Dr. Martens",
+                "description": "Bocanci din piele cu talpă inalta."
+            },
+            {
+                "id": 2,
+                "name": "Cizme peste genunchi 'GEORGETTE'",
+                "price": 590,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/2kC9yXR/temp-Image-MBioo-V.jpg",
+                "size": 42,
+                "colour": "Negru",
+                "material": "Textil",
+                "brand": "STEVE MADDEN",
+                "description": "Cizme peste genunchi cu aspect velur."
+            },
+            {
+                "id": 3,
+                "name": "Ghete chelsea 'GENESIS'",
+                "price": 620,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/VTX0KNX/temp-Imagev9-NSlb.jpg",
+                "size": 36,
+                "colour": "Bej-inchis",
+                "material": "Piele intoarsa",
+                "brand": "ASH",
+                "description": "Ghete cu varf rotund si talpa flexibila."
+            }
+        ],
+        "image": "https://i.ibb.co/9hgz3Fk/temp-Imagey67-V8g.jpg",
+        "name": "Încălțăminte",
+        "description": "Ghete si cizme, colectia 2023."
+    },
+    "sweaters": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Bluză de molton 'Boom boom'",
+                "price": 332,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/ZMf5gks/temp-Image1-Wff-Vn.jpg",
+                "size": "M",
+                "colour": "Roz-deschis",
+                "material": "Bumbac",
+                "brand": "VANS",
+                "description": "Pulovăr din bumbac cu maneci lungi."
+            },
+            {
+                "id": 5,
+                "name": "Bluză de molton",
+                "price": 400,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/ZhdzpSg/temp-Imageq-JDQGz.jpg",
+                "size": "S",
+                "colour": "Albastru",
+                "material": "Bumbac",
+                "brand": "Levi's",
+                "description": "Bluza din material moale cu gluga captusita."
+            },
+            {
+                "id": 6,
+                "name": "Bluză de molton",
+                "price": 395,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/HNT1KV3/temp-Image98c0-ZK.jpg",
+                "size": "XXL",
+                "colour": "Portocaliu",
+                "material": "Bumbac",
+                "brand": "Tommy Hilfiger",
+                "description": "Bluza unisex cu logo brodat."
+            },
+            {
+                "id": 7,
+                "name": "Bluză de molton 'Pelin'",
+                "price": 210,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/Jmb5jDH/temp-Image-L6-Rp-FI.jpg",
+                "size": "XL",
+                "colour": "Violet",
+                "material": "Poliester",
+                "brand": "VIERVIER",
+                "description": "Bluza de molton cu imprimeu."
+            }
+        ],
+        "image": "https://i.ibb.co/103YhHh/kelly-sikkema-CNjfgzo-Y8-JU-unsplash.jpg",
+        "name": "Pulovere",
+        "description": "Pulovere elegante."
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Pantaloni sport",
+                "price": 275,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/RpSCg9V/temp-Image-MOt-Uw-U.jpg",
+                "size": "M",
+                "colour": "Negru",
+                "material": "Bumbac",
+                "brand": "Nike",
+                "description": "Pantaloni de trening Nike pentru fitness."
+            },
+            {
+                "id": 9,
+                "name": "Blugi slim fit POLO RALPH LAUREN",
+                "price": 900,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/M8nnw8t/temp-Image-Ra-NIRN.jpg",
+                "size": "32",
+                "colour": "Albastru",
+                "material": "Bumbac",
+                "brand": "POLO RALPH LAUREN",
+                "description": "Blugi cu pietricele decorative."
+            }
+        ],
+        "image": "https://i.ibb.co/Pgfg0v9/temp-Image8-Hw-Cxn.jpg",
+        "name": "Pantaloni/blugi",
+        "description": "Jeanși și pantaloni pentru femei!"
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Geacă de iarnă 'Fuji'",
+                "price": 640,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/nzrzs5g/temp-Image-Vp-Jz4-F.jpg",
+                "size": "44",
+                "colour": "Kaki",
+                "material": "Poliester",
+                "brand": "SUPERDRY",
+                "description": "Geaca de iarna matlasata, avand buzunare laterale cu fermoar."
+            },
+            {
+                "id": 11,
+                "name": "Geacă de iarnă",
+                "price": 400,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/p1WvLbn/temp-Image4xwndy.jpg",
+                "size": "38",
+                "colour": "Verde",
+                "material": "Poliester",
+                "brand": "SUPERDRY",
+                "description": "Geacă verde cu glugă detașabilă."
+            }
+        ],
+        "image": "https://i.ibb.co/KmSds5N/photo-1551488831-00ddcb6c6bd3.webp",
+        "name": "Geci/Haine",
+        "description": "Geci calduroase si frumoase."
+    },
+    "tshirts": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Tricou Levi's",
+                "price": 90,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/rv10JR7/temp-Image5-BE8hb.jpg",
+                "size": "S",
+                "colour": "Negru",
+                "material": "Bumbac",
+                "brand": "Levi's",
+                "description": "Tricou simplu negru, colecția primăvară-vară 2023, Levi's."
+            },
+            {
+                "id": 13,
+                "name": "Tricou 'Cropped Tee'",
+                "price": 350,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/B4WWZvY/temp-Image-Ku9p-Ph.jpg",
+                "size": "XS",
+                "colour": "Negru",
+                "material": "Elastan",
+                "brand": "HUGO",
+                "description": "Tricou HUGO cu imprimeu tigrat."
+            },
+            {
+                "id": 14,
+                "name": "Tricou Adidas",
+                "price": 110,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/58WwFF9/temp-Image5d-KMo-T.jpg",
+                "size": "M",
+                "colour": "Alb",
+                "material": "Poliester",
+                "brand": "Adidas",
+                "description": "Tricou alb, colectia primavara 2023, Adidas."
+            }
+        ],
+        "image": "https://i.ibb.co/qBBdWfC/no-revisions-k-WVIm-L5-Qx-JI-unsplash.jpg",
+        "name": "Tricouri",
+        "description": "Tricouri pentru femei."
+    },
+    "accesories": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Geantă de umăr 'DIVINA'",
+                "price": 585,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/GVYrKjw/temp-Image3-Vqfr-G.jpg",
+                "size": "Universal",
+                "colour": "Lila",
+                "material": "Piele",
+                "brand": "VALENTINO",
+                "description": "Geanta lila compartimentata in interior cu fermoar."
+            },
+            {
+                "id": 16,
+                "name": "Curea 'OUTLINE'",
+                "price": 250,
+                "currency": "LEI",
+                "image": "https://i.ibb.co/7zVQLnS/temp-Imageb-IQC29.jpg",
+                "size": "80",
+                "colour": "Albastru-inchis",
+                "material": "Piele neteda",
+                "brand": "Tommy Hilfiger",
+                "description": "Curea din piele neteda, reglabila pe latime."
+            }
+        ],
+        "image": "https://i.ibb.co/dgqFq3y/james-ree-Zme-Ftu11-Hpc-unsplash.jpg",
+        "name": "Accesorii",
+        "description": "Profita de cea mai mare reducere pentru genti si curele."
+    }
+}
